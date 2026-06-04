@@ -1,0 +1,16 @@
+{
+  "name": "TAPAH Restaurant",
+  "short_name": "TAPAH",
+  "description": "High-performance, luxury-themed digital platform for TAPAH Restaurant in Deesa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
